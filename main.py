@@ -1,1 +1,1 @@
-print("mandelbrot sounds cool")
+print("mandelbrot sounds hard")
