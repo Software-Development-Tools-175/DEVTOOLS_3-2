@@ -1,1 +1,4 @@
-print("mandelbrot sounds cool")
+def hello():
+  print("hello")
+
+hello()
